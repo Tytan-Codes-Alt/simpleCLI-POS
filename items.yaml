@@ -1,0 +1,8 @@
+- item: Apple
+  price: 0.50
+- item: Banana
+  price: 0.75
+- item: Orange
+  price: 0.60
+- item: other
+  price: 69.420
