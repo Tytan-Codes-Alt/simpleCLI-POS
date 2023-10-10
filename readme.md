@@ -3,7 +3,7 @@
 ### How to use:
 
 You need to start by activating venv:
-```
+```bash
 #macos only
 source nopython/bin/activate
 ```
