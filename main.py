@@ -59,3 +59,4 @@ print(f"Change owed: ${change:.2f}")
 
 input(f"{Fore.GREEN}Enter {Fore.WHITE}to {Fore.RED}Continue")
 select_items(items)
+

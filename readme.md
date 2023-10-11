@@ -24,5 +24,15 @@ You can add and remove items by:
 - item: other
   price: 69.420
 ```
-
 If you have a brain, you can find out to how to add and remove them. 
+
+### Usage:
+
+You can use the cli version of the gui version:
+```bash
+python3 main.py
+#OR
+python3 ui.py
+```
+
+
